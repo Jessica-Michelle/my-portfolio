@@ -27,7 +27,7 @@ const Contact = () => {
 	const renderForm = () => {
 		return (
 			<form
-				netlify="true"
+				data-netlify="true"
 				name="contact"
 				className="ui form"
 				onSubmit={handleSubmit}
