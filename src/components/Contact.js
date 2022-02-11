@@ -67,6 +67,7 @@ const Contact = () => {
 
 	return (
 		<div id="contact">
+			<div class="ui divider"></div>
 			<h1>Contact</h1>
 			<div className="ui hidden divider"></div>
 			{renderForm()}

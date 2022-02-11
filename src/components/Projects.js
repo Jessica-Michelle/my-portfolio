@@ -30,6 +30,7 @@ const Projects = () => {
 
 	return (
 		<div id="projects">
+			<div class="ui divider"></div>
 			<h1>Project Highlights</h1>
 			<div className="ui hidden divider"></div>
 			<div className="ui three column grid stackable">
